@@ -1,9 +1,9 @@
 (Plantilla de bitácora para utilizar por el alumno) 
 # Bitácora Prácticas ISE
 
-- **Alumno:** Sergio López Castillo _(piensa que el repositorio es privado así que solo tú y el profesor vereis esta información)_
-- **Grupo de prácticas:** B1 _(modificalo si es distinto)_
-- **Usuario:** Tu nombre de usuario en github
+- **Alumno:** Sergio López Castillo
+- **Grupo de prácticas:** B1
+- **Usuario:** sergiioolopeez
 - **Curso:** 2025 / 2026
 ---
 
